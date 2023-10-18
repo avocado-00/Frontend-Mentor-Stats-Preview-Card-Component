@@ -63,7 +63,7 @@
     margin: 0;
     grid-area: image;
     border-radius: 1rem 1rem 0 0;
-    background-image: url("D:\card\stats-preview-card-component-main\images\image-header-mobile.jpg");
+    background-image: url("./images/image-header-mobile.jpg");
     background-size: cover;
   }
   .card-img {
@@ -98,7 +98,7 @@
   
     .card-imgArea {
       border-radius: 0 1rem 1rem 0;
-      background-image: url("D:\card\stats-preview-card-component-main\images\image-header-desktop.jpg");
+      background-image: url("./images/image-header-desktop.jpg");
     }
     .card-img {
       border-radius: 0 1rem 1rem 0;
